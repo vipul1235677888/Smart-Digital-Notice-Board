@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <div class="login-box">
 
   <div class="login-logo">📋</div>
-  <h2>Digital Notice Board</h2>
+  <h2>Proeffico Board</h2>
   <h3>Login to your account</h3>
 
   <?php if ($error): ?>
